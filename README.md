@@ -28,7 +28,7 @@
 
 ### 💻 تعريف المهندس (Terminal Object)
 
-```javascript
+javascript
 const aliAlHatami = {
   title: "Software Engineer & Systems Architect",
   specialization: "Full-Stack Development (Backend & Systems Specialist)",

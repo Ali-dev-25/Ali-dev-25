@@ -1,129 +1,226 @@
 <div align="center">
 
-# 👋 مرحباً بكم، أنا علي الحطامي
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### Software Engineer | Full-Stack Developer | Backend & Systems Specialist
+<!--                     HERO SECTION                           -->
 
-<a href="https://ali-dev-25.github.io" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=700&size=23&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Software+Engineer+%7C+مهندس+برمجيات;Full-Stack+Developer+%7C+Django+%26+PHP+%26+Backend;Core+Developer+at+ITQAN+Educational+Platform;Remote+Programming+Instructor+for+University+Students;AI-Driven+Software+Development" alt="Typing Animation" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<a href="https://ali-dev-25.github.io">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0284c7&text=ALI%20AL-HATAMI&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20AI&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Ali Al-Hatami Header"/>
 </a>
 
 <br/>
 
-<!-- Quick Action Buttons -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Software+Engineer+%7C+Systems+Architect;Full-Stack+Developer+%7C+Django+%26+PHP;Backend+%26+API+Engineering;Core+Developer+at+ITQAN+Educational+Platform;Remote+Programming+Instructor;AI-Driven+Software+Development" alt="Typing Animation"/>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    ACTION BUTTONS                          -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <a href="https://ali-dev-25.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Interactive_3D_Website-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-Interactive_3D_Website-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"/>
 </a>
 &nbsp;
 <a href="https://wa.me/967778375155" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-Direct_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WHATSAPP-Direct_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 &nbsp;
 <a href="mailto:ngrok3081@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ali-dev-25&label=PROFILE+VIEWS&color=0284c7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 💻 عنّي
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    ABOUT SECTION                           -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+# 👨‍💻 عنّي
+
+<div align="center">
+
+> **أبني الأنظمة، لا مجرد صفحات الويب.**
+
+</div>
+
+أنا **علي الحطامي**، مهندس برمجيات ومطور Full-Stack متخصص في **Backend Engineering والأنظمة البرمجية**.
+
+أركز على بناء تطبيقات وأنظمة ويب قوية، قابلة للتوسع والصيانة، مع اهتمام خاص بالمعمارية البرمجية، قواعد البيانات، واجهات الـAPI، الخوارزميات، والأتمتة باستخدام الذكاء الاصطناعي.
 
 ```javascript
 const aliAlHatami = {
-  title: "Software Engineer & Systems Architect",
+    role: "Software Engineer & Systems Architect",
 
-  specialization:
-    "Full-Stack Development | Backend & Systems Engineering",
+    specialization: [
+        "Backend Engineering",
+        "Full-Stack Development",
+        "System Architecture",
+        "API Development"
+    ],
 
-  coreBackends: [
-    "Django",
-    "Python",
-    "PHP",
-    "RESTful APIs",
-    "SQL Databases"
-  ],
+    primaryStack: {
+        backend: ["Django", "Python", "PHP"],
+        databases: ["SQL"],
+        apis: ["RESTful APIs"],
+        languages: ["Python", "C++", "Java", "C#", "JavaScript"]
+    },
 
-  coreStrengths: [
-    "Scalable Systems",
-    "Clean Architecture",
-    "Problem Solving",
-    "High Performance",
-    "OOP & Algorithms"
-  ],
+    engineering: [
+        "Clean Architecture",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Performance Optimization",
+        "System Design"
+    ],
 
-  flagshipAchievement:
-    "Core Developer at ITQAN Educational & Technology Platform",
+    ai: [
+        "Generative AI",
+        "AI-Assisted Development",
+        "Automation",
+        "Intelligent Workflows"
+    ],
 
-  tutoringMentorship:
-    "Remote International Programming Instructor",
+    flagshipProject:
+        "ITQAN Educational & Technology Platform",
 
-  aiEngineering:
-    "AI Integration & Automation in Software Development",
-
-  currentStatus:
-    "Available for Software Engineering Projects & System Contracts"
+    status:
+        "Building scalable software systems 🚀"
 };
 ```
 
 ---
 
-# 🌟 ركائز الخبرة والقيمة الهندسية
+# 🧠 Engineering Mindset
 
-### 🚀 Backend & Systems Engineering
+<div align="center">
 
-تطوير وبناء أنظمة ويب قوية وقابلة للتوسع باستخدام:
+```text
+                    ┌───────────────────────┐
+                    │    SOFTWARE SYSTEMS   │
+                    └───────────┬───────────┘
+                                │
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+       ┌───────────┐      ┌───────────┐      ┌───────────┐
+       │  BACKEND  │      │ ARCHITECTURE│     │    AI     │
+       └─────┬─────┘      └─────┬─────┘      └─────┬─────┘
+             │                  │                  │
+             ▼                  ▼                  ▼
+        Django / PHP       Clean Design       Automation
+        REST APIs          Scalability        AI Tools
+        SQL                Performance        Smart Systems
+```
 
-* **Django / Python**
-* **PHP**
-* **RESTful APIs**
-* **SQL Databases**
-* **MVC / MVT Architecture**
-* **Authentication & Web Security**
-* **Performance Optimization**
-
----
-
-### 🎓 منصة إتقان التعليمية والتقنية
-
-المساهمة في تطوير **منصة إتقان التعليمية والتقنية** من خلال العمل على:
-
-* بناء وتطوير محركات النظام الأساسية.
-* تنظيم ومعالجة البيانات.
-* تصميم تدفقات العمليات والمعاملات.
-* تطوير الأنظمة الخلفية.
-* تحسين الأداء والاستقرار.
-* بناء حلول قابلة للتوسع لخدمة أعداد كبيرة من المستخدمين.
+</div>
 
 ---
 
-### 🌍 التدريب البرمجي الدولي عن بُعد
+# 🚀 ركائز الخبرة
 
-تقديم تدريب برمجي عن بُعد لطلاب جامعيين في مجالات علوم الحاسوب، مع التركيز على:
+## 🏗️ Backend & Systems Engineering
 
-* **Data Structures**
-* **Algorithms**
-* **Object-Oriented Programming**
-* **Problem Solving**
-* **C++**
-* **Python**
-* **Java**
+أعمل على تطوير أنظمة Backend تركز على:
+
+* ⚡ الأداء والاستجابة.
+* 🧩 Modular Architecture.
+* 📈 Scalability.
+* 🔐 Security.
+* 🗄️ Database Design.
+* 🔌 RESTful APIs.
+* 🧠 Business Logic.
+* 🧹 Clean & Maintainable Code.
 
 ---
 
-### 🤖 AI-Driven Development
+## 🎓 ITQAN Educational & Technology Platform
 
-استخدام أدوات وتقنيات الذكاء الاصطناعي لتحسين دورة حياة تطوير البرمجيات، بما يشمل:
+المساهمة في تطوير **منصة إتقان التعليمية والتقنية** والعمل على الأنظمة والمحركات الأساسية للمنصة.
 
-* توليد وتحسين الكود.
-* مراجعة جودة البرمجيات.
-* اكتشاف الأخطاء والثغرات.
-* أتمتة المهام البرمجية.
-* تحسين الإنتاجية.
-* المساعدة في الاختبارات وتحليل الأنظمة.
+يشمل ذلك:
+
+```text
+System Architecture
+       │
+       ├── Backend Development
+       ├── Data Processing
+       ├── Transaction Logic
+       ├── Database Management
+       ├── API Integration
+       ├── Performance Optimization
+       └── Scalable System Design
+```
+
+---
+
+## 🌍 Remote Programming Instructor
+
+تقديم تدريب برمجي عن بُعد في مجالات علوم الحاسوب، مع التركيز على:
+
+**C++ • Python • Java**
+
+وتشمل المجالات:
+
+* Data Structures
+* Algorithms
+* Object-Oriented Programming
+* Problem Solving
+* Programming Fundamentals
+* Computational Thinking
+
+---
+
+# 🤖 AI-Driven Development
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,100:312e81&text=AI%20%2B%20SOFTWARE%20ENGINEERING&fontSize=24&fontColor=ffffff&animation=fadeIn" width="80%" alt="AI Engineering"/>
+
+</div>
+
+أستخدم تقنيات وأدوات الذكاء الاصطناعي كجزء من دورة تطوير البرمجيات بهدف:
+
+```text
+Idea
+ ↓
+Architecture
+ ↓
+Implementation
+ ↓
+AI-Assisted Development
+ ↓
+Testing
+ ↓
+Security Review
+ ↓
+Optimization
+ ↓
+Production
+```
+
+### مجالات الاستخدام
+
+* 🧠 AI-assisted coding
+* ⚙️ Development automation
+* 🔍 Code analysis
+* 🛡️ Security review
+* 🧪 Testing assistance
+* 📚 Documentation
+* 🚀 Developer productivity
 
 ---
 
@@ -131,125 +228,198 @@ const aliAlHatami = {
 
 <div align="center">
 
-### Backend & Databases
+## Backend
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/RESTful_APIs-0284c7?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend Technologies"/>
 
-<br/>
+<br/><br/>
 
-### Programming Languages
+## Programming Languages
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js" alt="Programming Languages"/>
 
-<br/>
+<br/><br/>
 
-### Frontend & 3D
+## Frontend & 3D
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,threejs" alt="Frontend Technologies"/>
 
-<br/>
+<br/><br/>
 
-### Engineering & Tools
+## Database & Tools
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Structures-4F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Algorithms-6366F1?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode" alt="Tools"/>
 
 </div>
 
 ---
 
-# 📂 أبرز المشاريع والخبرات
+# 💎 Core Engineering Skills
 
-| المشروع / المجال                     | الوصف                                                             | التقنيات                  |
-| ------------------------------------ | ----------------------------------------------------------------- | ------------------------- |
-| 🏆 **منصة إتقان التعليمية والتقنية** | تطوير الأنظمة والمحركات الأساسية، إدارة البيانات وتدفقات العمليات | Django • Python • SQL     |
-| 🚀 **Backend Systems**               | تصميم وتطوير أنظمة ويب قابلة للتوسع وذات أداء عالٍ                | Django • PHP • REST APIs  |
-| 🧩 **Modular OOP Systems**           | بناء أنظمة برمجية تعتمد على البرمجة الكائنية وهياكل البيانات      | C++ • Java • Python       |
-| 🧠 **Algorithms & Problem Solving**  | تطوير حلول وخوارزميات للمشكلات الرياضية والحاسوبية                | C++ • Python • Algorithms |
-| 🤖 **AI-Driven Development**         | دمج الذكاء الاصطناعي والأتمتة في دورة تطوير البرمجيات             | AI • Automation           |
+<div align="center">
+
+|         Area        | Technologies / Concepts                              |
+| :-----------------: | :--------------------------------------------------- |
+|   🏗️ **Backend**   | Django • Python • PHP                                |
+|     🔌 **APIs**     | RESTful APIs • API Architecture                      |
+|   🗄️ **Database**  | SQL • PostgreSQL • MySQL                             |
+|  🧠 **Algorithms**  | Data Structures • Optimization                       |
+| 🧩 **Architecture** | OOP • MVC • MVT • Clean Architecture                 |
+|   🔐 **Security**   | Authentication • Secure APIs • Web Security          |
+|  ⚡ **Performance**  | Optimization • Efficient Data Processing             |
+|      🤖 **AI**      | Generative AI • Automation • AI-Assisted Development |
+|   🌐 **Frontend**   | HTML5 • CSS3 • JavaScript • Three.js                 |
+|     🔧 **Tools**    | Git • GitHub • VS Code                               |
+
+</div>
 
 ---
 
-# 🧠 مجالات الاهتمام
+# 📂 Featured Projects & Experience
+
+<div align="center">
+
+| 🚀 Project / Area          | 💡 Description                                                    | 🛠️ Stack             |
+| :------------------------- | :---------------------------------------------------------------- | :-------------------- |
+| 🏆 **ITQAN Platform**      | تطوير الأنظمة والمحركات الأساسية وإدارة تدفقات البيانات والعمليات | Django • Python • SQL |
+| ⚡ **Backend Systems**      | تطوير أنظمة ويب قوية وقابلة للتوسع                                | Django • PHP • REST   |
+| 🧩 **Modular OOP Systems** | أنظمة تعتمد على OOP وهياكل البيانات                               | C++ • Java • Python   |
+| 🧠 **Algorithms Suite**    | حلول وخوارزميات للمشكلات الرياضية والحاسوبية                      | C++ • Python          |
+| 🤖 **AI Development**      | دمج الذكاء الاصطناعي والأتمتة في البرمجة                          | AI • Automation       |
+
+</div>
+
+---
+
+# 🖥️ Developer Terminal
 
 ```text
-Backend Engineering
-│
-├── Django / Python
-├── PHP
-├── REST APIs
-└── SQL
-
-Software Engineering
-│
-├── Clean Architecture
-├── OOP
-├── Algorithms
-├── Data Structures
-└── System Design
-
-AI Engineering
-│
-├── Generative AI
-├── AI-Assisted Coding
-├── Automation
-└── Intelligent Workflows
+┌──────────────────────────────────────────────────────────────┐
+│ ali@software-engineer:~$ whoami                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Name       : Ali Al-Hatami                                  │
+│  Role       : Software Engineer                              │
+│  Focus      : Backend & Systems                              │
+│  Frameworks : Django / PHP                                    │
+│  Languages  : Python / C++ / Java / C# / JavaScript          │
+│  APIs       : RESTful APIs                                    │
+│  Database   : SQL                                            │
+│  AI         : AI-Driven Development                          │
+│                                                              │
+│  Status     : ████████████████████  ONLINE                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🎯 ماذا أقدّم؟
+# 🧩 Problem Solving
 
 <div align="center">
 
-| 💼 Service             | 🔧 Focus                        |
-| ---------------------- | ------------------------------- |
-| Backend Development    | Django • Python • PHP           |
-| Full-Stack Development | Web Applications                |
-| API Development        | RESTful APIs                    |
-| Database Engineering   | SQL & Data Modeling             |
-| System Architecture    | Scalable & Maintainable Systems |
-| Algorithms             | Data Structures & Optimization  |
-| AI Engineering         | AI-Assisted Development         |
-| Programming Mentorship | C++ • Python • Java             |
+```text
+                    COMPLEX PROBLEM
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   ANALYZE IT    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ DESIGN SOLUTION │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   WRITE CODE    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ TEST & OPTIMIZE │
+                  └────────┬────────┘
+                           │
+                           ▼
+                       🚀 DONE
+```
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ali-dev-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Ali's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-dev-25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-dev-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-dev-25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ali-dev-25&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-dev-25&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-dev-25&bg_color=0d1117&color=38BDF8&line=0284c7&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ali-dev-25/Ali-dev-25/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 What I Build
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                    SOFTWARE ENGINEERING                 ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗   ║
+║   ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║   ║
+║   ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║   ║
+║   ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║   ║
+║   ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║   ║
+║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+### أقدّم حلولًا في:
+
+* 🚀 Backend Development
+* 🌐 Full-Stack Applications
+* 🔌 REST API Development
+* 🗄️ Database Architecture
+* 🏗️ System Architecture
+* 🧠 Algorithms & Data Structures
+* 🧩 OOP Systems
+* 🤖 AI-Assisted Development
+* ⚙️ Software Automation
+* 🎓 Programming Mentorship
 
 ---
 
@@ -258,17 +428,19 @@ AI Engineering
 <div align="center">
 
 <a href="https://ali-dev-25.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-Interactive_3D_Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-Interactive_3D_Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
 <a href="https://wa.me/967778375155" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-Direct_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WHATSAPP-Direct_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:ngrok3081@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -277,18 +449,24 @@ AI Engineering
 
 <div align="center">
 
-## 🚀 Ready to Build the Next System?
+<a href="https://ali-dev-25.github.io">
 
-**Software Engineering • Backend Systems • AI-Driven Development**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0284c7,50:0f172a,100:020617&text=BUILD.%20SOLVE.%20INNOVATE.&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer"/>
+
+</a>
+
+### 🚀 Building Scalable Systems. Solving Complex Problems. Exploring AI.
+
+**Software Engineering • Backend Systems • AI • Architecture**
 
 <br/>
 
 <a href="https://ali-dev-25.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-ali--dev--25.github.io-38BDF8?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Portfolio" />
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-ali--dev--25.github.io-38BDF8?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Portfolio"/>
 </a>
 
 <br/><br/>
 
-⭐ **If you find my projects useful, consider giving them a Star!**
+⭐ **If you find my work useful, consider giving a Star!**
 
 </div>
